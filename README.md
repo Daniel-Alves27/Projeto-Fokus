@@ -5,8 +5,7 @@ Projeto de lista de tarefas que se fundamenta no método Pomodoro para aprimorar
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Fokus**
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :rocket: URL         | https://projeto-fokus-six.vercel.app/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://imgur.com/6qYIZgY.png#vitrinedev)
